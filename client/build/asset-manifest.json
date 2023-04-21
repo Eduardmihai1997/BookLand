@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e012b9e.css",
+    "main.js": "/static/js/main.d2311801.js",
+    "static/media/vertical-book.png": "/static/media/vertical-book.72a9dd5e5c697b3f1f3e.png",
+    "static/media/about-image.png": "/static/media/about-image.b89753ad49d2b20e13c4.png",
+    "static/media/pencil.png": "/static/media/pencil.46c71c1502474fd09aa9.png",
+    "static/media/hero-books.png": "/static/media/hero-books.887df91cd4ee856538b8.png",
+    "static/media/books-topics.png": "/static/media/books-topics.0c5e1a33fbb6cbcf7c55.png",
+    "static/media/cover_not_found.jpg": "/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/open-book.png": "/static/media/open-book.4b26a7b5a280a5915c38.png",
+    "index.html": "/index.html",
+    "main.2e012b9e.css.map": "/static/css/main.2e012b9e.css.map",
+    "main.d2311801.js.map": "/static/js/main.d2311801.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e012b9e.css",
+    "static/js/main.d2311801.js"
+  ]
+}
